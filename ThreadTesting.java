@@ -12,7 +12,7 @@ public class ThreadTesting {
 		
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Hello! Enter the number of threads you would like to start");
-
+//The loop forces the user to enter a number
 		do {
 			input = scan.next();
 			try {
